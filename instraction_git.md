@@ -41,3 +41,9 @@ git diff
 ```sh
 git diff {commit_name_1} {commit_name_2}
 ```
+
+Для того чтобы вевести список коммитов необходимо ввести следующее:
+
+```sh
+git log
+```
