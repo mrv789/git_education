@@ -205,3 +205,21 @@ ___Текст жирным курсивом___
 [GeekBrains](https://gb.ru/) без подсказки
 
 [GeekBrains](https://gb.ru/ "Всплывающая подсказка") с подсказкой
+
+## Картинки  
+
+Изображения в Markdown оформляются так же как и оформление ссылкок, только перед квадратными скобками нужно поставить восклицательный знак: **![текст]**(путь к изображению). Здесь также можно добавить всплывающую подсказку.
+
+Пример ввода в Markdown:
+
+ ```
+![Логотип](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png) без подсказки
+
+![Логотип](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png "Всплывающая подсказка") с подсказкой
+```
+
+Как будет при просмотре:
+
+![Логотип](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png) без подсказки
+
+![Логотип](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png "Всплывающая подсказка") с подсказкой
