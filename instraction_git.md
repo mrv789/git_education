@@ -167,3 +167,5 @@ git branch -m main
 ```sh
 git push -u origin main
 ```
+
+#### Типа что-внесли
